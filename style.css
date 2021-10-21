@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@300&family=Lato:wght@300;400&display=swap');
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background:rgba(3, 87, 3, 0.822);
+    height: 89px;
+}
+.navbar{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    background: url(/1.png);
+    height: 105vh;
+}
+.head h1{
+    color: white;
+    font-weight: 192px;
+    text-align: center;
+    font-size: 150px;
+    padding-top:256px;
+    padding-left: 100px;
+    font-family:'leto', sans-serif ;
+
+}
+.head p{
+  color: white;
+    text-align: center;
+    font-size: 55px;
+    padding-top: 140px;
+    padding-right: 30px;
+    font-family:'Roboto', sans-serif ;
+}
+.text h2{
+    margin-top: 98px;
+    color: rgba(1, 65, 1, 0.767);
+    text-align: center;
+    margin-bottom: 40px;
+}
+.papa{
+    color: rgba(1, 65, 1, 0.767);
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 17px;
+font-weight: bold;
+}
+.one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+.three{
+    text-align: center;
+}
+.four{
+    text-align: center;   
+}
+.but{
+    border:1px solid green;
+    border-radius: 10px;
+    padding: 6px 30px 5px 40px;
+    position: relative;
+    left: 45%;
+    font-size:15px;
+    color: rgb(1, 65, 1, 0.767);
+    font-weight: bold;
+    margin-top: 50px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+section{
+    background: url(/6.png);
+    height: 105vh;
+    margin-bottom: 87px;
+}
+.bg {
+    text-align: center;
+    font-size: 60px;
+    color:black;
+    padding-top: 300px;
+}
+.sect{
+    display: flex;
+    align-items: center;
+}
+.sect .image{
+    margin: 0 4rem 0 0;
+}
+.image{
+width: 720px;
+height: 597px;
+
+}
+ .bolajon h3{
+    font-size: 30px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.ppp{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.ttt{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.rrr{
+    font-size:17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.father{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.eee{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.www{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.qqq{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.bolajon img{
+    padding-bottom: 48px;
+    width: 30px;
+}
+.left{
+    padding-left: 8rem;
+}
+.right img{
+height: 635px;
+
+}
+.left h4{
+    font-size: 30px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.last{
+    display: flex;
+    align-items: center;
+}
+.zzz{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.xxx{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.ccc{
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.pos h4{
+    font-size: 30px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.ox img{
+    width: 720px;
+    height: 597px;
+}
+.last .pos{
+    padding: 0 0 0 4rem;
+}
+.bbb{
+    font-size: 30px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+.container{
+    display: flex;
+justify-content: space-around;
+margin:0 220px 70px 220px;
+}
+.container p{
+    margin-top: 10px;
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    font-family:'Roboto', sans-serif ;
+}
+.mafia2{
+    background-color: rgb(44, 45, 71);
+}
+.mafia2 img{
+    height: 419px;
+    padding-left: 400px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.mafia2 h1{
+    color: white;
+    font-family:'Roboto', sans-serif ;
+    font-weight: bold;
+height: 200px;
+left: -1.19%;
+right: 52.37%;
+top: 199.91px;
+font-style: normal;
+font-size: 96px;
+line-height: 100px;
+padding-top: 100px;
+padding-left: 50px;
+}
+.hot{
+    border:1px solid gray;
+    border-radius: 10px;
+    padding: 6px 30px 5px 40px;
+    position: relative;
+    left: 45%;
+    font-size:20px;
+    color:white;
+    font-weight: bold;
+    margin-top: 50px;
+    background-color: gray;
+    font-family:'Roboto', sans-serif;
+    margin-bottom: 40px;
+}
+.star{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family:'Roboto', sans-serif ;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgb(1, 70, 1);
+    margin-bottom: 80px;
+}
+.d-flex{
+    display: flex;
+    width: 100%;
+}
+.d-flex img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background:#526E3E;
+    margin-top: -4px;
+    width: 100%;
+    height: 154px;  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.copy{
+    color: white;
+    font-size: 17px;
+    font-family:'Roboto', sans-serif ;
+}
+ .foot {
+     width: 38%;
+list-style: none;
+display: flex;
+padding-left: 35px;
+justify-content: space-around;
+font-family:'Roboto', sans-serif ;
+line-height: 12px;
+
+}
+.foot a{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+input{
+    font-family:'Roboto', sans-serif ;
+    padding-left: 16px;
+    height: 32px;
+    width: 242px;
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid white;
+    color: white;
+    font-size: 12px;
+}
+.icoco {
+    color:#EEDBBF;
+    width: 20%;
+    padding-left: 80px;
+    font-size: 0.9rem;
+}
+.icoco i{
+    width: 40px;
+}
+
+
+
+
